@@ -1,2 +1,2 @@
-# alainsirois.github.io
+# hockey
 Static sites for Alain Sirois
